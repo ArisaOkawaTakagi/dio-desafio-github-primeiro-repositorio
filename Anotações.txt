@@ -1,0 +1,1 @@
+Git Bash é um terminarl extendido para otimizr o uso do Git.
